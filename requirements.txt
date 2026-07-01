@@ -1,0 +1,8 @@
+# NLP Foundations — dependencies
+
+numpy
+pandas
+scikit-learn            # Naive Bayes (Bernoulli/Multinomial/Gaussian), CountVectorizer, metrics
+matplotlib              # Iris 분포 시각화
+seaborn                 # histplot
+tensorflow>=2.10        # tensorflow.keras: SimpleRNN, Embedding, imdb dataset, pad_sequences
